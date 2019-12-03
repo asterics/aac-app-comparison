@@ -1,0 +1,104 @@
+{
+    "data": [{
+        "name": "MetaTalk",
+        "link": "https://www.metacom-symbole.de/apps/metatalkde.html",
+        "crossPlatform": false,
+        "predefined": true,
+        "costs": 230,
+        "environmentalControl": false,
+        "computerControl": false,
+        "offline": true,
+        "liveSync": false
+    }, {
+        "name": "GoTalkNow",
+        "link": "https://apps.apple.com/at/app/gotalk-now/id454176457",
+        "crossPlatform": false,
+        "predefined": false,
+        "costs": 90,
+        "environmentalControl": false,
+        "computerControl": false,
+        "offline": true,
+        "liveSync": false
+    }, {
+        "name": "Aacorn AAC",
+        "link": "https://www.aacornapp.com/",
+        "crossPlatform": false,
+        "predefined": true,
+        "costs": 70,
+        "environmentalControl": false,
+        "computerControl": false,
+        "offline": true,
+        "liveSync": false
+    }, {
+        "name": "Tobii Communicator 5",
+        "link": "https://www.tobiidynavox.com/support-training/communicator-5/",
+        "crossPlatform": false,
+        "predefined": true,
+        "costs": 840,
+        "environmentalControl": true,
+        "computerControl": true,
+        "offline": true,
+        "liveSync": false
+    }, {
+        "name": "Grid 3",
+        "link": "https://thinksmartbox.com/product/grid-3/",
+        "crossPlatform": null,
+        "predefined": true,
+        "costs": 560,
+        "environmentalControl": true,
+        "computerControl": true,
+        "offline": true,
+        "liveSync": null
+    }, {
+        "name": "Snap + Core First",
+        "link": "https://de.tobiidynavox.com/pages/snap-core-first",
+        "crossPlatform": null,
+        "predefined": true,
+        "costs": 55,
+        "environmentalControl": false,
+        "computerControl": false,
+        "offline": true,
+        "liveSync": null
+    }, {
+        "name": "CoughDrop",
+        "link": "https://www.mycoughdrop.com/",
+        "crossPlatform": true,
+        "predefined": true,
+        "costs": 200,
+        "environmentalControl": false,
+        "computerControl": false,
+        "offline": true,
+        "liveSync": false
+    }, {
+        "name": "Cboard",
+        "link": "https://www.cboard.io/",
+        "crossPlatform": true,
+        "predefined": false,
+        "costs": 0,
+        "environmentalControl": false,
+        "computerControl": false,
+        "offline": true,
+        "liveSync": false
+    }, {
+        "name": "Open Voice Factory",
+        "link": "http://www.theopenvoicefactory.org/",
+        "crossPlatform": true,
+        "predefined": false,
+        "costs": 0,
+        "environmentalControl": false,
+        "computerControl": false,
+        "offline": null,
+        "liveSync": false
+    }, {
+        "name": "AsTeRICS Grid",
+        "link": "https://grid.asterics.eu/",
+        "crossPlatform": true,
+        "predefined": false,
+        "costs": 0,
+        "environmentalControl": true,
+        "computerControl": true,
+        "offline": true,
+        "liveSync": true
+    }]
+}
+
